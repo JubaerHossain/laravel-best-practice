@@ -445,7 +445,7 @@
     - **Productivity of new hires:** New team members can quickly become productive if there's a robust test suite and adherence to established coding guidelines, such as Laravel's.
     - **Reliability:** Relying on automated tests, rather than gut instinct, enhances the reliability of your projects.
     Laracasts' free testing courses, covering PHPUnit and Pest, are valuable resources for developers looking to improve their testing skills. PHPUnit is an industry-standard testing framework, while Pest simplifies and modernizes testing in PHP, making it an attractive choice for many developers.
-    - **Example:**
+    - **Example:** [!1.png]
 
 
 - **Use standard Laravel tools accepted by community**
